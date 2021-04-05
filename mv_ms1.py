@@ -5,14 +5,14 @@ from netmiko import ConnectHandler
 ios_l2_sw1= {
     'device_type': 'cisco_ios',
     'host': '1.1.2.1',
-    'username': 'avram',
+    'username': '',
     'password': 'cisco',
 }
 
 ios_l2_sw12= {
     'device_type': 'cisco_ios',
     'host': '1.1.2.2',
-    'username': 'avram',
+    'username': '',
     'password': 'cisco',
 }
 
