@@ -4,7 +4,7 @@ import paramiko
 import time
 
 ip_address = '1.1.2.1'
-username = 'avram'
+username = ''
 password = 'cisco'
 
 ssh_client = paramiko.SSHClient()
